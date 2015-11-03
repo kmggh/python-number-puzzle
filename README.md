@@ -53,6 +53,6 @@ This program allows trying any number to see if it works.
 The solution
 ------------
 
-It turns out, apparently, that any number of the form 21<x>78 is a
-solution where <x> is zero or more 9's.
+It turns out, apparently, that any number of the form 21x78 is a
+solution where x is zero or more 9's.
 
